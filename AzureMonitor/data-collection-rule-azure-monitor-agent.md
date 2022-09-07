@@ -24,7 +24,7 @@ To collect data from virtual machines using the Azure Monitor agent, you'll:
 
 To send data to Log Analytics, create the data collection rule in the **same region** as your Log Analytics workspace. You can still associate the rule to machines in other supported regions.
 
-### [Portal](#tab/portal)
+### [Portal](https://portal.azure.com/)
 
 1. From the **Monitor** menu, select **Data Collection Rules**. 
 1. Select **Create** to create a new Data Collection Rule and associations.  
